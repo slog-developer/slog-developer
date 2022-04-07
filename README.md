@@ -1,11 +1,5 @@
+
+![thum_github](https://user-images.githubusercontent.com/68675925/162097439-b48ce6dd-b004-4d3b-b8cf-5b8c95fdeaea.png)
+
 # Slog Designer
 - 👋 Hi, I’m @slog-developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-slog-developer/slog-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
