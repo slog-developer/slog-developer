@@ -1,4 +1,4 @@
 
 
-# Slog Designer
+# Slog Frontend Developer
 - 👋 Hi, I’m @slog-developer
